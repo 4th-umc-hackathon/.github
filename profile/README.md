@@ -1,12 +1,36 @@
-## Hi there 👋
+<p align = "center">
+<img src="https://github.com/4th-umc-hackathon/.github/assets/86403488/5d514581-c2df-4053-bad6-41b637e5340e" width="800"/>
+</p>
 
-<!--
+🔠 EnPT
+---
+EnPT는 GPT 3.5를 기반으로 실시간 영어 작문 연습을 도와주는 서비스 입니다.
+레벨에 따라 달라지는 답변도 확인해 볼까요?
+다양한 대화 상황을 선택해 당신의 영작 실력을 키워보세요!
 
-**Here are some ideas to get you started:**
+👩‍💻 Contributor
+---
+- [PM] 초코(김관용)
+- [FE] 데이빗(김태영), 제이(이정우), 히동(김소희), 메이(최혜인)
+- [BE] 제이드(양성원), 버블(홍다연), 비비(배은경), 에이치(강현)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+✌️ 핵심 기능
+---
+✔ [주제별 작문] 카테고리를 나눠 작문 주제 결정에 도움을 주고 원하는 주제에 대해 직접 커스텀하기
+
+✔ [맞춤형 질의응답] 레벨(초급, 중급, 고급)에 따라 답변의 길이가 달라지며 이어서 대화 가능!
+
+✔ [보완점 피드백] 답변이 마음에 들지 않을 경우 재답변을 요청해 최적의 문장 도출
+
+✔ [영어 문법 검사] 본인이 쓴 영어 문법 검사를 통해 영어 실력 향상 도모
+
+
+🛠 사용 기술
+---
+- React.js
+- SpringBoot, JPA
+- ChatGPT
+- Amazon EC2, Amazon RDS
+- MySQL
+- Docker
+
