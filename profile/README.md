@@ -29,7 +29,7 @@ EnPT는 GPT 3.5를 기반으로 실시간 영어 작문 연습을 도와주는 �
 ---
 - React.js
 - SpringBoot, JPA
-- ChatGPT
+- ChatGPT❤️
 - Amazon EC2, Amazon RDS
 - MySQL
 - Docker
