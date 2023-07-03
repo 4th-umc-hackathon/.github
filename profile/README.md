@@ -34,3 +34,12 @@ EnPT는 GPT 3.5를 기반으로 실시간 영어 작문 연습을 도와주는 �
 - MySQL
 - Docker
 
+
+🗂️ PPT
+---
+[PPT](https://docs.google.com/presentation/d/13DWcFMeBF-nIZaf1THJ8pFIVi46loGkK/edit?usp=sharing&ouid=111865899156782818991&rtpof=true&sd=true)
+
+📽️ 시연 영상
+---
+
+
