@@ -41,5 +41,6 @@ EnPT는 GPT 3.5를 기반으로 실시간 영어 작문 연습을 도와주는 �
 
 📽️ 시연 영상
 ---
+[시연 영상](https://youtu.be/qUiTG8JsvxA)
 
 
